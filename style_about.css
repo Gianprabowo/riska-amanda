@@ -1,0 +1,76 @@
+
+        .container {
+            background-color: red;
+            color: aliceblue;
+            height: 50px;
+            display: flex; 
+            justify-content: center; 
+            align-items: center; 
+            gap: 200px; 
+        }
+    
+        .container a {
+            color: #ffffff;
+            font-size: 20px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+    
+        .container a:hover {
+            background-color: #ffffff; 
+            color: red; 
+            border-radius: 5px;
+        }
+    
+            table {
+                background-color: red;
+                color: rgb(255, 255, 255);
+                width: 80%;
+                height: 50%;
+                border-color: #FFF8E1;
+            }
+            td {
+                text-align: center;
+                font-weight: 800;
+                border: 1px solid black;
+            }
+            footer {
+                background-color: rgb(255, 0, 0);
+                color: white;
+                text-align: center;
+                padding: 1px;
+                margin-top: 50px;
+                background-attachment: scroll;
+                font-weight: bold;
+            }
+            body {
+                height: 60vh;
+                background-color: #000000 ;
+            }
+    
+            .images {
+                display: flex; 
+                justify-content: center;
+                gap: 20%; 
+                margin-top: 20px; 
+            }
+    
+            .images img {
+                width: 150px; 
+                height: 150px;
+                border-radius: 10px; 
+            }
+            p {
+                text-align: center;
+                font-weight: bold;
+                text-transform: uppercase;
+                color: aliceblue;
+            }
+            a {
+                color: aliceblue;
+                text-decoration: none;
+            }
+            h1 {
+                color: #ffffff;
+            }
+    
